@@ -40,3 +40,8 @@ a {
     color-scheme: dark;
   }
 }
+
+.form-check-input:checked {
+  background-color: #b5791c !important;
+  border-color: #b5791c !important;
+}
